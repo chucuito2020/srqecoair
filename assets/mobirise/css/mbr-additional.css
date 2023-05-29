@@ -872,13 +872,65 @@ strong {
 .mbr-section-btn .btn:hover:after {
   background-position: left;
 }
-.cid-ttjniok9Xv {
-  background-image: url("../../../assets/images/sarasota-remediation-services.3d-2000x1500.jpg");
+.cid-tFEYP9F9Wz {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #accee2;
 }
-.cid-ttjniok9Xv .mbr-fallback-image.disabled {
+.cid-tFEYP9F9Wz .row {
+  align-items: center;
+  background-color: #f6f6f6;
+  padding: 6.5rem;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 25px;
+}
+@media (max-width: 992px) {
+  .cid-tFEYP9F9Wz .row {
+    padding: 2.5rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-tFEYP9F9Wz .row {
+    padding: 1rem;
+  }
+}
+@media (max-width: 425px) {
+  .cid-tFEYP9F9Wz .row {
+    padding: 0;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tFEYP9F9Wz .image-wrapper {
+    padding: 1rem;
+  }
+}
+.cid-tFEYP9F9Wz .image-wrapper img {
+  object-fit: cover;
+  border-radius: 15px;
+}
+@media (min-width: 992px) {
+  .cid-tFEYP9F9Wz .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-tFEYP9F9Wz .mbr-section-title {
+  margin-bottom: 3rem;
+  color: #1b577a;
+}
+.cid-tFEYP9F9Wz .mbr-text {
+  margin-bottom: 1.5rem;
+  color: #e082c5;
+}
+.cid-tFEYP9F9Wz .btn {
+  width: 200px;
+  height: 55px;
+  box-shadow: none;
+}
+.cid-tFEYP9F9Wz .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ttjniok9Xv .mbr-fallback-image {
+.cid-tFEYP9F9Wz .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -887,24 +939,9 @@ strong {
   position: absolute;
   top: 0;
 }
-.cid-ttjniok9Xv .mbr-section-title {
-  color: #FFFFFF;
-  margin-bottom: 20px;
-}
-.cid-ttjniok9Xv .mbr-section-subtitle {
-  color: #FFFFFF;
-  margin-bottom: 20px;
-}
-.cid-ttjniok9Xv .mbr-text {
-  color: #FFFFFF;
-}
-.cid-ttjniok9Xv .mbr-section-btn {
-  margin-top: 18px;
-}
-.cid-ttjniok9Xv .mbr-text,
-.cid-ttjniok9Xv .mbr-section-btn {
-  text-align: left;
-  color: #accee2;
+.cid-tFEYP9F9Wz .mbr-text,
+.cid-tFEYP9F9Wz .mbr-section-btn {
+  color: #1b577a;
 }
 .cid-tFnHFU90dr {
   padding-top: 5rem;
